@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Anis 👋
 
-<!--
-**AnisMadeIt/AnisMadeIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT / network technician based in Montréal. I learn by building — most of what I know about Linux, networking, and infrastructure comes from labs I set up and broke and fixed myself.
 
-Here are some ideas to get you started:
+Focus: Linux · networking (TCP/IP, DNS, DHCP, routing) · Windows Server / Active Directory · Docker · virtualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: studying for CompTIA Network+ · looking for a junior role in IT support, networking, or data center operations.
+
+
+## Labs & projects
+
+
+- 🔐 [**SSH Hardening & Traffic Analysis**](https://github.com/AnisMadeIt/ssh-lab) — packet capture with tcpdump/Wireshark, proving cleartext vs. encrypted transfer, SSH tunneling
+- 🖥️ [**Multi-VM Linux Home Lab**](https://github.com/AnisMadeIt/homelab) — 3-node Debian setup on QEMU/UTM, Docker + Caddy/TLS, AdGuard DNS sinkhole
+- 🪟 [**Windows Server / Active Directory Lab**](https://github.com/AnisMadeIt/ad-lab) — domain controller, users/groups, GPOs, domain-joined client
+
+
+📍 Montréal · 🗣️ Bilingual FR/EN
